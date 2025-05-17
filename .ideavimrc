@@ -1,0 +1,4 @@
+set number relativenumber
+set ignorecase
+nmap gi :action go implementation<CR>
+set clipboard+=unnamed
